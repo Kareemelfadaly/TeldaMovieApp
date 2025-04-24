@@ -19,6 +19,9 @@ A clean, modular iOS movie app built using UIKit + MVVM + Coordinator architectu
 
 | Movie List | Detail View | Similar + Top Cast |
 |------------|-------------|--------------------|
+| *![IMG_3280](https://github.com/user-attachments/assets/4068d13b-c952-4b54-a8e1-206554fdf47d)* | ![IMG_3281](https://github.com/user-attachments/assets/f6a3b99f-33f2-4e88-90da-72c027ca6afa) | ![IMG_3281](https://github.com/user-attachments/assets/aba734d5-a6e3-4a79-9f73-6a22a03665d9) |
+
+
 
 
 ---
@@ -49,23 +52,8 @@ A clean, modular iOS movie app built using UIKit + MVVM + Coordinator architectu
 
 ---
 
-
-📂 TeldaMovieApp
-├── AppDelegate.swift
-├── SceneDelegate.swift
-├── Coordinators/
-├── Models/
-├── Network/
-├── ViewModels/
-├── Views/
-│   ├── MovieList/
-│   ├── MovieDetail/
-├── Utils/
-├── Resources/
-
-
 ✍️ Author
-    •    Kareem El-Fadaly
+    •    Kareem Elfadaly
     •    LinkedIn (https://www.linkedin.com/in/kareem-elfadaly)
 
 
