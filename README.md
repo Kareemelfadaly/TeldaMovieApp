@@ -1,4 +1,4 @@
-# 🎬 TeldaMovieApp
+# 🎬 MovieApp
 
 A clean, modular iOS movie app built using UIKit + MVVM + Coordinator architecture — as part of Telda's iOS engineering challenge.
 
